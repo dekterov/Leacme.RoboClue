@@ -5,6 +5,7 @@
 This application features the ability to retrieve and display information about the currently running computer.
 
 ![][image_screenshot]
+![index](https://user-images.githubusercontent.com/6654513/71703984-f2321680-2d94-11ea-83cc-25da1150fd79.png)
 
 ## Application Compiling
 
